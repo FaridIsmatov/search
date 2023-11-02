@@ -1,0 +1,48 @@
+.fixed {
+    width: 200px;
+    background-color: blue;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    h1 {
+        color: aliceblue;
+    }
+
+    
+}
+.a1 {
+    text-align: right;
+}
+
+.home {
+    border-bottom: 1px solid black;
+    color: aliceblue;
+}
+.about {
+    border-bottom: 1px solid black;
+    color: aliceblue;
+
+}
+.contact {
+    border-bottom: 1px solid black;
+    color: aliceblue;
+}
+.portofolio {
+    border-bottom: 1px solid black;
+    color: aliceblue;
+}
+.blog {
+    border-bottom: 1px solid black;
+    color: aliceblue;
+}
+.contact {
+    border-bottom: 1px solid black;
+    color: aliceblue;
+}
+button {
+    background-color: blue;
+    width: 200px;
+    border: 2px solid black;
+    color: azure;
+}
